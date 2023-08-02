@@ -51,11 +51,11 @@ _Where would you place a class variable all = [] to act as a Single Source of Tr
 
 #### Magazine
 - `Magazine __init__(self, title)`
-   - Magazine should be initialized with a title
+  X - Magazine should be initialized with a title
 - `Magazine property title`
-   - should return the magazine's title
-   - title must be a string
-   - the title cannot be changed after initialzation
+  X - should return the magazine's title
+  X - title must be a string
+  X - the title cannot be changed after initialzation
 
 #### Reader
 - `Reader __init__(self, name, email)`

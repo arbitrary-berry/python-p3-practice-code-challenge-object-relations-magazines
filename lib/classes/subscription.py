@@ -1,2 +1,4 @@
 class Subscription:
+
+    all= []
     pass
