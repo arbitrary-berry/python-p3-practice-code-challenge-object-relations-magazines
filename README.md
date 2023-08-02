@@ -76,7 +76,7 @@ _Where would you place a class variable all = [] to act as a Single Source of Tr
   - `raise Exeption` if setter fails
 - `Subscription magazine(self)`
   - should return the `Magazine` instance for this subscription
-  - must be of type `Reader`
+  - must be of type `Magazine`
   - `raise Exeption` if setter fails
 - `Subscription property price(self)`
   - should return the price of the subscription as a 2-decimal float
